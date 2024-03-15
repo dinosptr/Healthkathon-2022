@@ -1,7 +1,7 @@
 # Kompetisi Healthkathon 2022 - Machine Learning
 
 ## Deskripsi Proyek
-
+![Alt text](assets/healthkathon-logo.jpg)
 BPJS Kesehatan Healthkathon adalah kegiatan kompetisi yang rutin dilaksanakan BPJS Kesehatan yang mengajak seluruh element masyarakat dalam menciptakan kreatifitas pada digital innovation dengan tujuan menggali solusi dalam permasalahan di bidang kesehatan. Pada tahun ini BPJS Kesehatan Healthkaton 2022 mengusung Terna "Collaboration for Stronger, Faster and Better Innovation".
 
 Kompetisi Healthkathon 2022 diikuti oleh 1.670 tim, terdiri dari 229 tim kategori Pentest Student, 464 tim kategori Pentest Pro, 417 tim kategori Innovation System dan 560 tim kategori Machine Learning yang tersebar di tiga wilayah, yakni wilayah barat, tengah dan timur Indonesia.
